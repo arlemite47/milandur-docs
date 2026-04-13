@@ -1,12 +1,12 @@
 {
-  "name": "vitepress-docs",
+  "name": "vitepress-wiki",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "wiki:dev": "vitepress dev wiki",
-    "wiki:build": "vitepress build wiki",
-    "wiki:preview": "vitepress preview wiki"
+    "docs:dev": "vitepress dev wiki",
+    "docs:build": "vitepress build wiki",
+    "docs:preview": "vitepress preview wiki"
   },
   "devDependencies": {
     "vitepress": "^1.0.0"
